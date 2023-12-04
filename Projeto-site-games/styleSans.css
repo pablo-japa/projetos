@@ -1,0 +1,17 @@
+#comecar{
+    margin-top: 200px;
+    border: 2px solid white;
+    padding: 10px; /* Isso é opcional, mas ajuda a dar espaço interno à borda */
+    display: inline-block; /* Isso faz com que a borda envolva o conteúdo */
+    text-decoration: none; /* Remove a decoração padrão de link (sublinhado) */
+    color: white;
+}
+
+#minhaDiv{
+    
+        width: 20%; /* Defina a largura desejada, por exemplo, 50% da largura da tela */
+        height: 300px; /* Defina a altura desejada, por exemplo, 300 pixels */
+        border: 2px solid black; /* Adicione uma borda para visualização */
+        margin: auto; /* Centralize a div na tela horizontalmente */
+    
+}

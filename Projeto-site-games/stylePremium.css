@@ -1,0 +1,55 @@
+body {
+    /* Adicionei algumas propriedades para melhorar a visualização */
+    margin: 0;
+    padding: 0;
+}
+
+.premium {
+    color: white;
+}
+
+#planoCarrossel {
+    max-width: 400px;
+    margin: auto;
+    margin-top: 50px; 
+    border: 2px;
+}
+
+.carousel-inner {
+    text-align: center;
+}
+.premium{
+    background-color: rgb(170, 139, 199);
+}
+
+ #moggedColor {
+    background: linear-gradient(to right, #ff5733, #33ff57, #5733ff); /* Substitua pelas cores desejadas */
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+    margin: 0; /* Remova a margem para evitar espaçamento extra */
+  }
+
+  #chadColor {
+    background: linear-gradient(to right, #3f3432, #334b38, #2b2546); /* Substitua pelas cores desejadas */
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+    margin: 0; /* Remova a margem para evitar espaçamento extra */
+  }
+
+  #chadCarousel{
+    font-color: black;
+
+  }
+
+  #gigaColor{
+    background: linear-gradient(to right, rgb(90, 40, 90), rgb(68, 33, 124), #5e44d4); /* Substitua pelas cores desejadas */
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+    margin: 0; /* Remova a margem para evitar espaçamento extra */
+    
+  }
+
+ 
